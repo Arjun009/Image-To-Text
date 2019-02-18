@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Image To Text</string>
+    <string name="recent_news">Image To Text (OCR)</string>
+    <string name="in_news">
+        The main objective of this application is to find a solution for handwritten text recognition of different fonts and styles by improving the design structure of the traditional Artificial Neural Network (ANN).
+The recognition results of such text or handwritten materials are then fed into Optical Character Recognition (OCR) as an electronic translation of images of handwritten, typewritten or printed text into machine-editable text.
+
+
+
+</string>
+    <string name="publish_date">2019-02-20 12:00:00</string>
+
+</resources>

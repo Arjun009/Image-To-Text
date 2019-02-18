@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="match_parent"
+xmlns:app="http://schemas.android.com/apk/res-auto"
+xmlns:tools="http://schemas.android.com/tools"
+tools:context=".MainActivity2"
+android:layout_height="match_parent"
+android:orientation="vertical">
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:gravity="center_horizontal"
+                android:text="Voice To Text"
+                android:layout_marginTop="15sp"
+                android:textSize="30sp"
+
+                />
+
+            <EditText
+                android:id="@+id/txvResult"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentTop="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginTop="100dp"
+                android:hint="Speak"
+                android:textColor="#000"
+                android:textSize="26sp"
+                android:textStyle="normal"/>
+
+
+            <Button
+                android:id="@+id/button_save2"
+                android:layout_marginStart="30sp"
+                android:layout_width="45sp"
+                android:layout_height="45sp"
+                android:layout_marginTop="35sp"
+                android:background="@drawable/save"
+                android:layout_marginEnd="12sp"
+                android:layout_gravity="end" />
+
+
+
+            <ImageView
+                android:id="@+id/btnSpeak"
+                android:layout_width="70dp"
+                android:layout_height="70dp"
+                android:layout_marginTop="75sp"
+                android:layout_gravity="center_horizontal"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="60dp"
+                android:gravity="center"
+                android:onClick="getSpeechInput"
+                android:src="@drawable/ic_mic"/>
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

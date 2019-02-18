@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#262938</color>
+
+    <color name="colorPrimaryDark">#181A24</color>
+
+    <!--<color name="colorAccent">#FF4081</color>-->
+    <color name="colorAccent">#ffa000</color>
+
+    <color name="colorWhite">#ffffff</color>
+
+    <color name="colorTransparentWhite">#cccccc</color>
+
+    <color name="colorprimary">#ffc107</color>
+
+    <color name="colorprimarydark">#ffa000</color>
+    <color name="colorcombo">#cc6600</color>
+    <color name="colorCombo">#587498</color>
+
+    <color name="white">#FFFFFF</color>
+
+    <color name="backgroundcolor">#fcfcfc</color>
+    <color name="colorprimaryDark">#273883</color>
+    <color name="black">#000000</color>
+    <color name="lightorange">#fdf2df</color>
+    <color name="lightorangee">#f5f5f5</color>
+    <color name="lightdarkerorange">#ebd6ab</color>
+
+
+    <color name="lightgray">#ededed</color>
+
+    <color name="deeppurple">#7c4dff</color>
+    <color name="address">#2F7092</color>
+    <color name="followers">#0D5D98</color>
+    <color name="headings">#3797CF</color>
+    <color name="solidCircle">#AAFFFFFF</color>
+    <color name="circleBorder">#50FFFFFF</color>
+    <color name="gradEnd">#67EFC8</color>
+    <color name="gradStart">#63C9FF</color>
+    <color name="followersBg">#65DCE5</color>
+    <color name="followingBg">#49BEFF</color>
+    <color name="grey">#E5E5E5</color>
+
+
+    <color name="yello">#ffb300</color>
+
+    <color name="green">#00bfa5</color>
+
+    <color name="coloraccent">#FF4081</color>
+
+    <color name="darkblue">#23283a</color>
+
+    <color name="testcolorblue">#152b38</color>
+
+    <color name="pink">#fe104d</color>
+
+    <color name="black_overlay">#66000000</color>
+</resources>
