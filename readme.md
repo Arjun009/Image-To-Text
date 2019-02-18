@@ -1,3 +1,4 @@
+You can find this application in playstore https://play.google.com/store/apps/details?id=com.arjun.imagetotext 
 This application recognizes handwritten text of different fonts and styles by improving the design structure of
 the traditional Artificial Neural Network (ANN).
 
