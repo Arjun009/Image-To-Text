@@ -48,7 +48,7 @@
             android:id="@+id/mainGrid"
             android:columnCount="2"
             android:layout_gravity="center"
-            android:rowCount="3"
+            android:rowCount="2"
             android:alignmentMode="alignMargins"
             android:columnOrderPreserved="false"
             android:layout_weight="8"
@@ -159,6 +159,21 @@
 
             </android.support.v7.widget.CardView>
 
+
+
+        </GridLayout>
+
+
+        <GridLayout
+            android:columnCount="2"
+            android:layout_gravity="center"
+            android:rowCount="2"
+            android:alignmentMode="alignMargins"
+            android:columnOrderPreserved="false"
+            android:layout_weight="8"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:padding="24dp">
 
             <!-- Row 2 -->
 
@@ -271,7 +286,10 @@
 
             <!-- Column 2 -->
 
+
         </GridLayout>
+
+
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
